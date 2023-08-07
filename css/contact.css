@@ -1,0 +1,66 @@
+.team{
+    margin-top: 4em;
+    display: flex;
+    width: 90%;
+    margin-left: 6em;
+}
+.left-2{
+    width: 70%;
+}
+.right-2{
+    width: 25%;
+}
+.seperator{
+    width: 60%;
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.521);
+    margin-top: 1.3em;
+}
+.input-1{
+    margin-top: 2em;
+}
+.input-1 form input{
+    width: 29%;
+    font-size: 14px;
+    padding: 1em 4em;
+}
+.input-1 form .inp-2{
+    margin-left:2em;
+}
+form .inp-3{
+    width: 60.6%;
+    font-size: 14px;
+    padding: 1em 4em;
+    margin-top: 2em;
+}
+form .txt-1{
+    width: 60.6%;
+    font-size: 14px;
+    padding: 1em 4em;
+    margin-top: 2em;
+    color: gray;
+}
+
+/* .btn button{
+  padding: 1.5em 2em;
+  margin-top: 2em;
+ background-color: #f48840;
+ color: white;
+ border: none;
+} */
+.seperator-1{
+    width: 100%;
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.521);
+    margin-top: 1.3em;
+}
+.right .num{
+    margin-top: 2em;
+}
+.right .color{
+    color: gray;
+}
+.map{
+   margin-top: 3em;
+   margin-left: 8em;
+}
